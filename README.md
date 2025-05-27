@@ -1,18 +1,13 @@
 
-# WhatsApp Bot – Nature Tours (רייזרים, איזיריידר, קולנוע נייד)
+# WhatsApp Bot – Nature Tours
 
-## התקנה ב-GitHub ו-Railway
-1. העלה את הקבצים לריפו חדש ב-GitHub
-2. התחבר ל-[Railway](https://railway.app)
-3. לחץ על "New Project" → "Deploy from GitHub"
-4. המתן להופעת QR קוד לסריקה → סרוק עם וואטסאפ
-5. הבוט פעיל בענן!
+## הפעלה:
+1. העלה את הקבצים לריפו ב-GitHub
+2. התחבר ל-Railway ובחר "Deploy from GitHub"
+3. עבור ל-Logs וסרוק את ה-QR לקישור הבוט
+4. כתוב "שלום" לבדיקה
 
-**תיקיית media/** כוללת תמונות, סרטונים ומחירונים שנשלחים ללקוחות לפי בחירה.
-
----
-
-## Start
+## התקנת תלויות (למקומיים)
 ```
 npm install
 npm start
